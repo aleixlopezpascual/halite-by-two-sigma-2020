@@ -1,5 +1,6 @@
 # halite-by-two-sigma-2020
 Kaggle competition 2020-09
+
 https://www.kaggle.com/c/halite/overview
 
 ## Overview
